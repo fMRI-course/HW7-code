@@ -1,4 +1,0 @@
-This is the first sentence of our new paper.
-
-
-This is the second sentence.
